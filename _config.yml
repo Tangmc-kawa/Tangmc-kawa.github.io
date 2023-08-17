@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingchuan Tang"
   avatar           : "profile.png"
-  bio              : "Undergraduate student of Peking University, YuanPei College, Intergrative Science Project"
+  bio              : "\nUndergraduate\nIntergrative Science Projects\nYuanPei College\nPeking University"
   location         : "Haidian, Beijing, China"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -104,16 +104,16 @@ author:
   lastfm           :
   linkedin         : "tangmc"
   orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  pinterest        : 
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "76561199101710530"
+  steam            : # "76561199101710530"
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             : 
   weibo            : 
   xing             : 
-  youtube          : "Akikawa_"
+  youtube          : # "@Akikawa_"
   wikipedia        : 
 
 
